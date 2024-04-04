@@ -10,9 +10,8 @@ Hi there! I am Xor0v0,
 - web2/web3/Cryptography Security ehthusiast
 - CTFer and zkHACKer
 
-
-|![Xor0v0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xor0v0&show_icons=true&theme=aura&hide=issues) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xor0v0&hide=Jupyter%20Notebook) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=Xor0v0&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=issues" alt="Anurag's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xor0v0&layout=compact&theme=buefy&hide_border=true&hide=Jupyter%20Notebook" /></a> |
+| ------------- | ------------- |
 
 ## FLAG in 2024
 
